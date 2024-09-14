@@ -18,8 +18,8 @@ Welcome to my **Credit Risk Analysis** project! This project demonstrates a mach
 
 ## Key Visualizations
 
-![Precision-Recall Curve](./images/precision_recall_curve.png)
-![Learning Curve](./images/learning_curve.png)
+![Precision-Recall Curve](./images/precision_recall_curve.jpg)
+![Learning Curve](./images/learning_curve.jpg)
 
 ## How to Run the Project
 
