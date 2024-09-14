@@ -25,7 +25,7 @@ Welcome to my **Credit Risk Analysis** project! This project demonstrates a mach
 ![Learning Curve](./images/learning_curve.JPG)
 <br>
 
-View the full analysis: [Credit Risk Analysis](./Credit_Risk.html)
+View the full analysis here:  [Credit Risk Analysis](./Credit_Risk.html)
 
 ## Project Files
 - Download the Jupyter Notebook: [Credit_Risk.ipynb](./Credit_Risk.ipynb)
