@@ -3,18 +3,17 @@
 Welcome to my **Credit Risk Analysis** project! This project demonstrates a machine learning approach to analyzing credit risk, using a dataset of customer financial and demographic information to predict loan approval decisions.
 
 ## Project Overview
-
-- **Tools Used**: Python, Jupyter Notebook, Scikit-learn, Matplotlib
-- **Skills Applied**: Data Cleaning, Feature Engineering, Classification Models, Model Evaluation
+- **Tools**: Python, Jupyter, Scikit-learn
+- **Skills Applied**: Data Cleaning, Feature Engineering, Model Optimization, Classification
+- **Models Used**: Logistic Regression, Decision Trees, Random Forest, Gradient Boosting
 - **Dataset**: [Download the dataset here](./credit_risk_dataset.csv)
 
-## Project Features
-
-- Data preprocessing, including outlier detection and removal
-- Automation of feature engineering using Column Transformer and Pipeline
-- Multiple classification models: Logistic Regression, Decision Trees, etc.
-- Hyperparameter tuning using Randomized Search
-- Model evaluation with Precision-Recall Curve, F1-Score, and Learning Curves
+## Key Features
+- Processed and analyzed over 32,000 customer records.
+- Removed 5% of outliers to improve model performance.
+- Used **Column Transformer** and **Pipeline** to streamline the feature engineering process.
+- Optimized models using **Randomized Search** for hyperparameter tuning.
+- Achieved a weighted average **F1-Score of 0.91** across multiple classifiers.
 
 ## Key Visualizations
 <br>**Precision-Recall Curve:**<br>
@@ -25,18 +24,13 @@ Welcome to my **Credit Risk Analysis** project! This project demonstrates a mach
 **Learning Curve:**<br>
 ![Learning Curve](./images/learning_curve.JPG)
 
-## How to Run the Project
+## Project Files
+- Download the Jupyter Notebook: [Credit_Risk.ipynb](./Credit_Risk.ipynb)
 
-To replicate the project locally:
 
-```bash
-git clone https://github.com/reyhaanbinny/credit_risk.git
-cd credit-risk
-pip install -r requirements.txt
-jupyter notebook Credit_Risk.ipynb
-```
 ## Contact
 Feel free to reach out if you have any questions or feedback!
 - **Email**: reyhaanbinny97@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/reyhaanbinny
+
 
