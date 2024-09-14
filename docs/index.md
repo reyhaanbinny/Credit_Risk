@@ -92,7 +92,8 @@ This project demonstrates the ability to predict credit risk using machine learn
 
 ## Contact
 Feel free to reach out if you have any questions or feedback!
-- **Email**: reyhaanbinny97@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/reyhaanbinny
+- **Email**: [reyhaanbinny97@gmail.com](mailto:reyhaanbinny97@gmail.com)
+- **LinkedIn**: [My Linkedin](https://www.linkedin.com/in/reyhaanbinny)
+- **GitHub:** [My Github Profile](https://github.com/reyhaanbinny)
 
 
