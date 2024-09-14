@@ -73,6 +73,9 @@ View the full analysis here:  [Credit Risk Analysis](./Credit_Risk.html)
 ## Project Files
 - Download the Jupyter Notebook: [Credit_Risk.ipynb](./Credit_Risk.ipynb)
 
+## Conclusion
+This project demonstrates the ability to predict credit risk using machine learning techniques. The insights derived from this analysis can help financial institutions reduce risk by identifying applicants who are more likely to default on credit obligations. The model can be further improved and integrated into business systems to enhance decision-making processes.
+
 ## Future Improvements
 1. **Feature Engineering**:
    - Further refine feature engineering by incorporating external data sources such as credit bureau data to improve predictions.
@@ -85,9 +88,6 @@ View the full analysis here:  [Credit Risk Analysis](./Credit_Risk.html)
 3. **Deep Learning**:
    - Explore using deep learning techniques such as neural networks to handle complex relationships in the data.
    - Perform feature importance analysis to identify the most significant predictors in credit risk assessment.
-
-## Conclusion
-This project demonstrates the ability to predict credit risk using machine learning techniques. The insights derived from this analysis can help financial institutions reduce risk by identifying applicants who are more likely to default on credit obligations. The model can be further improved and integrated into business systems to enhance decision-making processes.
 
 
 ## Contact
