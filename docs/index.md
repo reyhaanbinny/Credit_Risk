@@ -6,7 +6,7 @@ Welcome to my **Credit Risk Analysis** project! This project demonstrates a mach
 
 - **Tools Used**: Python, Jupyter Notebook, Scikit-learn, Matplotlib
 - **Skills Applied**: Data Cleaning, Feature Engineering, Classification Models, Model Evaluation
-- **Dataset**: [Download the dataset here](/credit_risk_dataset.csv)
+- **Dataset**: [Download the dataset here](./credit_risk_dataset.csv)
 
 ## Project Features
 
@@ -18,12 +18,12 @@ Welcome to my **Credit Risk Analysis** project! This project demonstrates a mach
 
 ## Key Visualizations
 <br>**Precision-Recall Curve:**<br>
-![Precision-Recall Curve](/images/precision_recall_curve.JPG)
+![Precision-Recall Curve](./images/precision_recall_curve.JPG)
 
 <br>
 
 **Learning Curve:**<br>
-![Learning Curve](/images/learning_curve.JPG)
+![Learning Curve](./images/learning_curve.JPG)
 
 ## How to Run the Project
 
