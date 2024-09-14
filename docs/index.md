@@ -34,3 +34,9 @@ git clone https://github.com/reyhaanbinny/credit_risk.git
 cd credit-risk
 pip install -r requirements.txt
 jupyter notebook Credit_Risk.ipynb
+```
+## Contact
+Feel free to reach out if you have any questions or feedback!
+- **Email**: reyhaanbinny97@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/reyhaanbinny
+
