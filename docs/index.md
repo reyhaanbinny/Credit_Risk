@@ -17,8 +17,12 @@ Welcome to my **Credit Risk Analysis** project! This project demonstrates a mach
 - Model evaluation with Precision-Recall Curve, F1-Score, and Learning Curves
 
 ## Key Visualizations
-
+<br>**Precision-Recall Curve:**<br>
 ![Precision-Recall Curve](/images/precision_recall_curve.JPG)
+
+<br>
+
+**Learning Curve:**<br>
 ![Learning Curve](/images/learning_curve.JPG)
 
 ## How to Run the Project
